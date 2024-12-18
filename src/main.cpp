@@ -2,7 +2,7 @@
 #include <ESP32Servo.h>
 
 #ifndef DELAY
-#define DELAY 10000
+#define DELAY 2000
 #endif
 
 Servo servo;
